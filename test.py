@@ -1,1 +1,1 @@
-#python -m notebook to open jupyter notebook - at (1:07:00 in the video)
+
